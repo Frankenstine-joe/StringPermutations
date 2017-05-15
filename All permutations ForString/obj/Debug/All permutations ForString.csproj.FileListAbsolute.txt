@@ -1,0 +1,5 @@
+C:\Users\Frankenstine\Documents\Visual Studio 2015\Projects\Console Projects\All permutations ForString\All permutations ForString\bin\Debug\All permutations ForString.exe.config
+C:\Users\Frankenstine\Documents\Visual Studio 2015\Projects\Console Projects\All permutations ForString\All permutations ForString\bin\Debug\All permutations ForString.exe
+C:\Users\Frankenstine\Documents\Visual Studio 2015\Projects\Console Projects\All permutations ForString\All permutations ForString\bin\Debug\All permutations ForString.pdb
+C:\Users\Frankenstine\Documents\Visual Studio 2015\Projects\Console Projects\All permutations ForString\All permutations ForString\obj\Debug\All permutations ForString.exe
+C:\Users\Frankenstine\Documents\Visual Studio 2015\Projects\Console Projects\All permutations ForString\All permutations ForString\obj\Debug\All permutations ForString.pdb
